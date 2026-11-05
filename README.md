@@ -44,7 +44,7 @@ themes/my-theme/
 规则：
 
 - **`theme.json`**：`"schema"` 写青简支持的格式版本（现在是 `1`）。`meta` 里这些必填：
-  - `id`：小写字母、数字、连字符，与文件夹名相同；不能用内置主题的 id（`qingjian` `system-blue` `wechat` `sakura` `dafeiyu` `miku` `bocchi`）和 `system` `light` `dark`
+  - `id`：小写字母、数字、连字符，与文件夹名相同；不能用内置主题的 id（`qingjian` `system-blue` `wechat` `sujian` `glass` `slate` `sakura` `dafeiyu` `miku` `bocchi`）和 `system` `light` `dark`
   - `name`：显示名
   - `author`：作者
   - `license`：SPDX 许可证标识，如 `CC-BY-4.0`、`GPL-3.0-or-later`
